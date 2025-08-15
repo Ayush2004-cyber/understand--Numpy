@@ -64,15 +64,15 @@ Here's a quick look at how the project is organized:
 
 ## 🛠️ Built With
 
-Python - The programming language
+* Python - The programming language
 
-Pandas - The ultimate data manipulation library
+* Pandas - The ultimate data manipulation library
 
-Streamlit - For turning Python scripts into interactive web apps
+* Streamlit - For turning Python scripts into interactive web apps
 
-Matplotlib - For creating awesome visualizations
+* Matplotlib - For creating awesome visualizations
 
-NumPy - The fundamental package for scientific computing in Python
+* NumPy - The fundamental package for scientific computing in Python
 
 ---
 
